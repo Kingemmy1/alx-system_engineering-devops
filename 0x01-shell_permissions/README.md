@@ -5,3 +5,5 @@ pwd grp
 Write a script that prints all the groups the current user is part of
 touch hello
 Write a script that creates an empty file called hello
+chmod +x hello
+Write a script that adds execute permission to the owner of the file hello
