@@ -1,1 +1,3 @@
 -----rwx
+chmod hello
+chmod ~
