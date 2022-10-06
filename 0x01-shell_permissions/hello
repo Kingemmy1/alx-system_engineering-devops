@@ -1,3 +1,4 @@
 -----rwx
 chmod hello
 chmod ~
+chmod 'hello'

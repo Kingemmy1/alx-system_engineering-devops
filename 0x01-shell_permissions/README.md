@@ -17,3 +17,5 @@ Write a script that adds execution permission to the owner, the group owner and 
 Write a script that sets the permission to the file hello
 chmod ~
 Write a script that sets the mode of the file hello
+chmod 'hello' 'olleh'
+Write a script that sets the mode of the file hello the same as olleh’s mode
