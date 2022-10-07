@@ -32,3 +32,5 @@ chown 'vincent' chgrp 'staff'
 Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
 'chown' 'chgrp'
 Write a script that changes the owner and the group owner of _hello to vincent and staff respectively
+chown
+Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume

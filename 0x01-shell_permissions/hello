@@ -3,3 +3,4 @@ chmod hello
 chmod ~
 chmod 'hello'
 chgrp school
+chown file if '/betty' '/guillaume'
