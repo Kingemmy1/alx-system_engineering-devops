@@ -1,3 +1,2 @@
-#!/bin/bash
-mkdir my_dir
-my_dir 'rwx-xr-x'
+#!bin/bash
+rwx-xr--x/my_dir
