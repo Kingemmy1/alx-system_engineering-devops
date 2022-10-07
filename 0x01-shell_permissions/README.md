@@ -26,3 +26,5 @@ mkdir my_dir 'rwx-xr--x'
 mkdir my_dir 'rwx-xr--x'
 rwx-xr--x/my_dir
 Create a script that creates a directory called my_dir with permissions 751 in the working directory
+chgrp
+Write a script that changes the group owner to school for the file hello

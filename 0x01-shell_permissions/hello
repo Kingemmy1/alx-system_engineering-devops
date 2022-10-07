@@ -2,3 +2,4 @@
 chmod hello
 chmod ~
 chmod 'hello'
+chgrp school
