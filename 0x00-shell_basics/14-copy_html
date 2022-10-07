@@ -1,1 +1,2 @@
-cp
+#!/bin/bash
+cp 'current_working_directory.html' 'parent_working_directory'
