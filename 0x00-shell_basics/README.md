@@ -5,3 +5,4 @@ cp 11-lists.html
 cp 10-back.html '0x00-shell_basics' 'alx-system_engineering-devops'
 cp 2-groups.html '0x00-shell_basics' 'alx-system_engineering-devops'
 mv 'uppercase' /tmp/u
+rm ~
